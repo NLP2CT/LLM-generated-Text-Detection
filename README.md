@@ -1,14 +1,20 @@
 # Awesome LLM-generated Text Detection
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
-![](https://img.shields.io/badge/PRs-Welcome-red)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/junchaoIU/LLM-generated-Text-Detection/main?logo=github&color=blue)
+<div align="center" style="border-radius:50%;">
+  <img src="log.png" alt="Logo" width="200" class="avatar">
+</div>
 
-The powerful ability of large language models (LLMs) to understand, follow, and generate complex languages has enabled LLM-generated texts to flood many areas of our daily lives at an incredible rate, with potentially negative impacts and risks on society and academia. As LLMs continue to expand, how can we detect LLM-generated texts to help minimize the threat posed by the misuse of LLMs?
+<p align="center">
+  <img src="https://awesome.re/badge.svg" alt="Awesome">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License-MIT">
+  <img src="https://img.shields.io/badge/PRs-Welcome-red" alt="PRs-Welcome">
+  <img src="https://img.shields.io/github/last-commit/junchaoIU/LLM-generated-Text-Detection/main?logo=github&color=blue" alt="last-commit">
+</p>
+
+The powerful ability of large language models (LLMs) to understand, follow, and generate complex languages has enabled LLM-generated texts to flood many areas of our daily lives at an incredible rate, with potentially negative impacts and risks on society and academia. As LLMs continue to expand, *how can we detect LLM-generated texts to help minimize the threat posed by the misuse of LLMs?*
 
 <div align="center">
-  <img src="cover.png" alt="Logo" width="800">
+  <img src="cover.png" alt="cover" width="750">
 </div>
 <br>
 <!-- **Authors:** -->
@@ -22,7 +28,6 @@ The powerful ability of large language models (LLMs) to understand, follow, and 
 
 ## 📢 News
 * [2023.10.24] Our survey paper is now available on Arxiv: *[A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions](https://arxiv.org/abs/2310.14724)*.
-* [2023.10.07] : We start **Chinese LLM-generated Essay Detection** Project.
 * [2023.05.01] : We began to explore the topic of LLM-generated Text Detection.
 
 ## 🔍 Table of Contents
