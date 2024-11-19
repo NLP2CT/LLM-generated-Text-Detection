@@ -27,7 +27,8 @@ The powerful ability of large language models (LLMs) to understand, follow, and 
 ¹ University of Macau, ² Peking University
 
 ## 📢 News
-* [2023.10.24] Our survey paper is now available on Arxiv: *[A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions](https://arxiv.org/abs/2310.14724)*.
+* [2024.09.26] ✨ Our benchmark paper is accepted by NeurIPS 2024 D&B track. We released DetectRL, a benchmark for real-world LLM-generated text detection, provide real utility to researchers on the topic and practitioners looking for consistent evaluation methods. Please refer to arXiv: *[DetectRL: Benchmarking LLM-Generated Text Detection in Real-World Scenarios](https://arxiv.org/abs/2410.23746)* and Github Repo *[DetectRL](https://github.com/NLP2CT/DetectRL)* for details.
+* [2023.10.24] Our survey paper is now available on arXiv: *[A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions](https://arxiv.org/abs/2310.14724)*.
 * [2023.05.01] : We began to explore the topic of LLM-generated Text Detection.
 
 ## 🔍 Table of Contents
@@ -70,7 +71,7 @@ Please refer to our article/paper for more details.
 | [TuringBench](https://aclanthology.org/2021.findings-emnlp.172/)             | train            | 10k              | 190k         |
 | [MGTBench](https://arxiv.org/abs/2303.14822)                                 | train test       | 2k 563           | 13k 3k       |
 | [ArguGPT](https://arxiv.org/pdf/2304.07666.pdf)                              | train valid test | 3k 350 350       | 3k 350 350   |
-| [DeepfakeText-Detect-Dataset](https://arxiv.org/abs/2210.09421)              | train valid test | 95k 29k 29k      | 236k, 29k 28k|
+| [DeepfakeText-Dataset](https://arxiv.org/abs/2305.13242)              | train valid test | 95k 29k 29k      | 236k, 29k 28k|
 | [M4](https://arxiv.org/abs/2305.14902)                                       | train valid test | 122k 500 500     | 122k 500 500 |
 | [GPABenchmark](https://arxiv.org/abs/2306.05524)                             | train            | 600k             | 600k         |
 | [Scientific-articles Benchmark](https://aclanthology.org/2023.trustnlp-1.17/)| train test       | 8k 4k            | 8k 4k        |
