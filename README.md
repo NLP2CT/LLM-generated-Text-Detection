@@ -184,6 +184,7 @@ Please refer to our article/paper for more details.
 | NOTAI.AI: Explainable Detection of Machine-Generated Text via Curvature and Feature Attribution | arXiv | 2026-03 | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2603.05617) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/TenderChasm/Notai.ai) |
 | Breaking the Generator Barrier: Disentangled Representation for Generalizable AI-Text Detection (DRGD) | arXiv | 2026-04 | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2604.13692) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/PuXiao06/DRGD) |
 | GigaCheck: Detecting LLM-generated Content via Object-Centric Span Localization | ACL 2026 Findings | 2026-07 | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://aclanthology.org/2026.findings-acl.213/) |
+| Linda-Pro 1.0: a local ensemble detector of AI-generated English text | Zenodo (technical report) | 2026-10 | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://doi.org/10.5281/zenodo.23072494) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/Lendarixon/Linda) |
 #### Human-assisted Methods
 
 | Paper | Venue | Date | Link |
